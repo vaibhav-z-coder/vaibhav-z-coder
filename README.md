@@ -8,7 +8,13 @@ Email Me 👉 ✉️ **vaibhav6240018@gmail.com**
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 <!-- Snake Game Repo View -->
 
-![snake_gif](https://github.com/MeghnaS21/MeghnaS21/blob/output/github-snake-dark.svg)
+<p align="center">
+  <i>"Consistency beats talent when talent doesn't work hard."</i> 💪
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aryan1i/Aryan1i/output/github-contribution-grid-snake.svg" />
+</p>
 
 
 
