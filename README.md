@@ -8,9 +8,8 @@ Email Me 👉 ✉️ **vaibhav6240018@gmail.com**
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 <!-- Snake Game Repo View -->
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+![snake_gif](https://github.com/MeghnaS21/MeghnaS21/blob/output/github-snake-dark.svg)
+
 
 
 ## 🌐 Socials:
