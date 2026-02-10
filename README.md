@@ -6,15 +6,10 @@ Email Me 👉 ✉️ **vaibhav6240018@gmail.com**
 - 📫 **How to reach me:** vaibhav6240018@gmail.com
 - 😄 **Pronouns:** Vaibhav-z-
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
-<!-- Snake Game Repo View -->
+## 🐍 My Contributions Snake
 
-<p align="center">
-  <i>"Consistency beats talent when talent doesn't work hard."</i> 💪
-</p>
+![snake gif](https://github.com/vaibhav-z-coder/vaibhav-z-coder/blob/output/github-contribution-grid-snake.svg)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aryan1i/Aryan1i/output/github-contribution-grid-snake.svg" />
-</p>
 
 
 
